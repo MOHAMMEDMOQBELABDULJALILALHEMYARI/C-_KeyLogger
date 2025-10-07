@@ -1,0 +1,14 @@
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\bin\Debug\net10.0\OdevKeyLogger.exe
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\bin\Debug\net10.0\OdevKeyLogger.deps.json
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\bin\Debug\net10.0\OdevKeyLogger.runtimeconfig.json
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\bin\Debug\net10.0\OdevKeyLogger.dll
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\bin\Debug\net10.0\OdevKeyLogger.pdb
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.AssemblyInfoInputs.cache
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.AssemblyInfo.cs
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.dll
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\refint\OdevKeyLogger.dll
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.pdb
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\OdevKeyLogger.genruntimeconfig.cache
+C:\Users\Moham\OneDrive\سطح المكتب\C# ÖDEVLERİ\KeyLogger6\OdevKeyLogger\OdevKeyLogger\obj\Debug\net10.0\ref\OdevKeyLogger.dll
